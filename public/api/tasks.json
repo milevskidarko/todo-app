@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "task": "Darko",
+    "complete": true
+  },
+  {
+    "id": 2,
+    "task": "Milevski",
+    "complete": true
+  },
+  {
+    "id": 3,
+    "task": "Frontend",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Developer",
+    "complete": false
+  },
+  {
+    "id": 5,
+    "task": "Skopje",
+    "complete": false
+  }
+]
